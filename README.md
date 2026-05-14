@@ -21,7 +21,7 @@ End-to-end Excel analytics project uncovering pricing patterns,  fuel trends, an
 | Raw Records | 97,712 |
 | Clean Records | 96,705 |
 | Manufacturers | 9 (Ford, BMW, Mercedes, Audi, VW, Toyota, Vauxhall, Skoda, Hyundai) |
-| KPIs | 12 dynamic metrics |
-| Charts | 8 Pivot Charts |
+| KPIs | 10+ dynamic metrics |
+| Charts | 7 Pivot Charts |
 | Slicers | 5 (Manufacturer, Fuel Type, Transmission, Price Band, Year) |
-| Tool | Microsoft Excel 365 |
+| Tool | Microsoft Excel |
