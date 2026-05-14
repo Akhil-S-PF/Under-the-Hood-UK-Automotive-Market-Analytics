@@ -4,7 +4,7 @@ End-to-end Excel analytics project uncovering pricing patterns,  fuel trends, an
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel)
 ![Records](https://img.shields.io/badge/Records-96%2C705%20Clean-blue)
-![Charts](https://img.shields.io/badge/Charts-8%20Pivot%20Charts-orange)
+![Charts](https://img.shields.io/badge/Charts-7%20Pivot%20Charts-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 > Digging deep into 97,712 UK used-car listings to surface pricing 
