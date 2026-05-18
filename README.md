@@ -2,26 +2,24 @@
 End-to-end Excel analytics project uncovering pricing patterns,  fuel trends, and market dynamics across 97,712 UK used-car listings.
 # 🚗 Under the Hood — UK Automotive Market Analytics
 
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel)
-![Records](https://img.shields.io/badge/Records-96%2C705%20Clean-blue)
-![Charts](https://img.shields.io/badge/Charts-7%20Pivot%20Charts-orange)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+A complete end-to-end data analytics project built entirely in Excel, 
+analysing 97,712 raw records from the UK used-car market (2000–2020).
 
-> Digging deep into 97,712 UK used-car listings to surface pricing 
-> patterns, fuel transition signals, and market dynamics — built 
-> entirely in Microsoft Excel.
+Starting from a messy CSV with inconsistent manufacturer names, missing 
+values, and outliers — the project delivers a fully interactive executive 
+dashboard with real business insights.
 
----
+What's inside:
+- Data cleaning — TRIM, Find & Replace, IQR outlier detection
+- Feature engineering — Price bands, mileage segments, depreciation metrics
+- 10+ dynamic KPIs powered by COUNTIFS, AVERAGEIFS, INDEX/MATCH
+- 7 Pivot Charts — bar, donut, line, combo, column and more
+- 5 interactive slicers connected via GETPIVOTDATA to live KPI cards
+- VBA macro for one-click filter reset
+- 5 actionable business insights for inventory and pricing strategy
 
-## 📌 Project Summary
+Key Finding: Hybrid cars are priced 22% above market average yet 
+represent only 3% of listings — a clear supply-demand gap opportunity.
 
-| Item | Detail |
-|------|--------|
-| Dataset | UK Used-Car Market 2000–2020 |
-| Raw Records | 97,712 |
-| Clean Records | 96,705 |
-| Manufacturers | 9 (Ford, BMW, Mercedes, Audi, VW, Toyota, Vauxhall, Skoda, Hyundai) |
-| KPIs | 10+ dynamic metrics |
-| Charts | 7 Pivot Charts |
-| Slicers | 5 (Manufacturer, Fuel Type, Transmission, Price Band, Year) |
-| Tool | Microsoft Excel |
+Tools: Microsoft Excel 365 | Pivot Tables | Advanced Formulas | VBA
+Dataset: 97,712 rows → 96,705 after cleaning | Source: [Kaggle](https://www.kaggle.com/datasets/mohammedadham45/cars-data)
